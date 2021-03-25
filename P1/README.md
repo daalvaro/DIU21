@@ -44,10 +44,10 @@ Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cu
 1.c User Journey Map
 ----
 
-![foto4](lionel_journey.png)
+![foto3](lionel_journey.png)
 
 
-![foto3](marcos_journey.png)
+![foto4](marcos_journey.png)
 
 
 1.d Usability Review
