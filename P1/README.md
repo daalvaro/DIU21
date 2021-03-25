@@ -18,7 +18,7 @@
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Freetour: plataforma gratuita destinada a planificar rutas de viaje que no suponen coste alguno. La mayoría de estas están basadas en guías con propina. También existen rutas de pago, que le dan un mayor repertorio.
+.[Freetour](https://www.freetour.com): plataforma gratuita destinada a planificar rutas de viaje que no suponen coste alguno. La mayoría de estas están basadas en guías con propina. También existen rutas de pago, que le dan un mayor repertorio.
 
 way away: plataforma gratuita destinada a ofrecer una planificación de rutas completa para viajes de entre 3 y 7 días en una ciudad elegida. Cuenta con una versión de pago para mejorar la experiencia con mapas offline y rutas detalladas.
 
