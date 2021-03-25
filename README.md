@@ -1,8 +1,8 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU3_BÚHOS.  Curso: 2020/21 
+Updated: 25/03/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Álvaro Domínguez Aguilar     :octocat:     
+ * :bust_in_silhouette:  Laura Ortiz González     :octocat:
 
 ----- 
 
@@ -32,26 +32,37 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wanderlog, TripRepublic y Sygic. Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+- Lionel Huet
+![foto1](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+
+
+-Marcos Lanza Laguna
+![foto2](https://github.com/daalvaro/DIU21/blob/master/P1/marcos.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+- Lionel Huet
+![foto3](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+
+
+-Marcos Lanza Laguna
+![foto4](https://github.com/daalvaro/DIU21/blob/master/P1/marcos_journey.png)
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+- Enlace al documento:
+      Para ver el PDF [pulse aquí](https://github.com/daalvaro/DIU21/blob/master/P1/Usability_review.pdf)
+
+- Valoración final: 75
+- Comentario sobre la valoración: La página web ha obtenido una calificación de 75 puntos en la revisión de usabilidad, lo que puede considerarse como buena. Entre lo más destacable, incluye un amplio número de filtros que permiten seleccionar todo tipo de actividades y cada actividad va acompañada con información relevante (imágenes, descripción y ubicación en un mapa interactivo). Sin embargo, uno de sus mayores defectos es que es complicada de utilizar si no se tiene experiencia en este tipo de páginas web o conocimientos tecnológicos suficientes, debido a que la interfaz puede resultar confusa para el usuario, además de la dificultad que supone crear una ruta personalizada así como la reserva independiente de cada una de las actividades.
 
 
 ## Paso 2. UX Design  
