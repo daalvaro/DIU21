@@ -38,23 +38,26 @@ Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wan
 -----
 
 - Lionel Huet
-![foto1](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+
+[foto1](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
 
 
 - Marcos Lanza Laguna
-![foto2](https://github.com/daalvaro/DIU21/blob/master/P1/marcos.png)
+- 
+[foto2](https://github.com/daalvaro/DIU21/blob/master/P1/marcos.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 - Lionel Huet
-![foto3](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+
+[foto3](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
 
 
 - Marcos Lanza Laguna
-![foto4](https://github.com/daalvaro/DIU21/blob/master/P1/marcos_journey.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+[foto4](https://github.com/daalvaro/DIU21/blob/master/P1/marcos_journey.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
