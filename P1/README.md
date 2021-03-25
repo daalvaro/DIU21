@@ -2,7 +2,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+1.a Competitive Analysis
 -----
 
 [Freetour](https://www.freetour.com): plataforma gratuita destinada a planificar rutas de viaje que no suponen coste alguno. La mayoría de estas están basadas en guías con propina. También existen rutas de pago, que le dan un mayor repertorio.
@@ -33,29 +33,30 @@
 
 Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
 
-![Método UX](img/Persona.png) 1.b Persona
+1.b Persona
 -----
 
 ![foto1](lionel.png)
 
+
 ![foto2](marcos.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+1.c User Journey Map
 ----
 
 ![foto4](lionel_journey.png)
 
+
 ![foto3](marcos_journey.png)
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+1.d Usability Review
 ----
->>> - Enlace al documento:
-      Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/TRABAJO-FINAL/DIU-PRACTICA-FINAL.xlsx)
 
->>> - Valoración final: 75
->>> - Comentario sobre la valoración: La página web ha obtenido una calificación de 75 puntos en la revisión de usabilidad, lo que puede considerarse como buena. Entre lo más destacable, incluye un amplio número de filtros que permiten seleccionar todo tipo de actividades y cada actividad va acompañada con información relevante (imágenes, descripción y ubicación en un mapa interactivo). Sin embargo, uno de sus mayores defectos es que es complicada de utilizar si no se tiene experiencia en este tipo de páginas web o conocimientos tecnológicos suficientes, debido a que la interfaz puede resultar confusa para el usuario, además de la dificultad que supone crear una ruta personalizada así como la reserva independiente de cada una de las actividades.
+- Enlace al documento:
+      Para ver el PDF [pulse aquí](Usability_review.pdf)
+
+- Valoración final: 75
+- Comentario sobre la valoración: La página web ha obtenido una calificación de 75 puntos en la revisión de usabilidad, lo que puede considerarse como buena. Entre lo más destacable, incluye un amplio número de filtros que permiten seleccionar todo tipo de actividades y cada actividad va acompañada con información relevante (imágenes, descripción y ubicación en un mapa interactivo). Sin embargo, uno de sus mayores defectos es que es complicada de utilizar si no se tiene experiencia en este tipo de páginas web o conocimientos tecnológicos suficientes, debido a que la interfaz puede resultar confusa para el usuario, además de la dificultad que supone crear una ruta personalizada así como la reserva independiente de cada una de las actividades.
 
 
