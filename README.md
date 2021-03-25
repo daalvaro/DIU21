@@ -38,7 +38,7 @@ Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wan
 
 
 - Marcos Lanza Laguna
-- 
+ 
 ![foto2](https://github.com/daalvaro/DIU21/blob/master/P1/marcos.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
