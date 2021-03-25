@@ -32,6 +32,19 @@ Sygic: plataforma gratuita cuyo principal servicio son mapas pero que también c
 
 Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
 
+|EMPRESAS                        | Way Away | Freetour | World Travel Guide  | WanderLog  | Triprepublic  | Sygic Travel Maps |
+| :------:                       | :------: | :------: |  :---------------:  | :--------: |  :--------:   | :---------------: |
+| Gratis                         |    SI    |    SI    |          SI         |     SI     |      SI       |         SI        |
+| Español                        |    SI    |    SI    |          SI         |     NO     |      SI       |         SI        |
+| Planificación completa del día |    SI    |    NO    |          NO         |     NO     |      SI       |         SI        |
+| Ofertas gratuitas              |    SI    |    SI    |          NO         |     NO     |      NO       |         SI        |       
+| Precio visible                 |    NO    |    SI    |          SI         |     NO     |      SI       |         NO        |
+| Información detallada          |   PAGO   |    SI    |          SI         |     NO     |      SI       |         SI        |       
+| Facilidad de adquirir entradas |    NO    |    SI    |          NO         |     NO     |      SI       |         SI        |
+| Filtros por precio             |    NO    |    SI    |          SI         |     NO     |      SI       |         NO        |  
+| Filtros por temática           |    NO    |    NO    |          NO         |     NO     |      SI       |         SI        |  
+| Ruta personalizable            |    NO    |    NO    |          NO         |     SI     |      NO       |         SI        |
+| Mapa de bolsillo               |   PAGO   |    NO    |          SI         |     SI     |      NO       |         SI        |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
