@@ -98,7 +98,7 @@ En la matriz de tareas/usuarios hemos enumerado los distintos perfiles de usuari
 ----
 
 - Mapa del sitio
-- 
+
 ![foto7](P2/Sitemap.png)
 
 - Labelling
