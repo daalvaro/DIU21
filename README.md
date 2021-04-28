@@ -10,7 +10,7 @@ Proyecto:
 
 Descripción: 
 
-> GranadaTour es una aplicación para realizar rutas de carácter cultural en la ciudad de Granada. La aplicación permite seleccionar una ruta ya preestablecida o crear una propia, seleccionando las actividades que se quieren realizar.
+> GranadaTour es una aplicación para realizar rutas de carácter cultural recorriendo la ciudad de Granada. La aplicación permite seleccionar una ruta ya preestablecida o crear una propia, seleccionando las actividades que se quieren realizar.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -71,46 +71,54 @@ Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wan
 ----
 
 ![foto5](P2/Malla_receptora.png)
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+En la malla receptora de información hemos recabado toda la información de los usuarios de la práctica 1 (Lionel y Marcos). En esta malla receptora de información se ha tenido en cuenta las inquietudes/críticas de los usuarios así como las funcionalidades que satisfacían las necesidades y las mejoras que se podría realizar sobre la aplicación.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![foto6](P2/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+| Grupos de usuarios             | Jóvenes | Adultos sin hijos | Adultos con hijos | Ancianos | Agentes de viaje |  
+| :------:                       | :------:| :----------------:| :----------------:| :--------| :---------------:|
+| Buscar actividades infantiles  |    L    |          L        |          H        |     M    |         H        |
+| Utilizar rutas preestablecidas |    L    |          M        |          H        |     H    |         M        |
+| Utilizar rutas personalizables |    H    |          M        |          L        |     L    |         M        |
+| Accesibilidad                  |    L    |          L        |         M/H       |     H    |         M        |    
+| Ofertas                        |    H    |          M        |         M/H       |     L    |         M        |
+| Comida incluida                |    L    |          H        |          M        |     H    |         M        |
 
+En la matriz de tareas/usuarios hemos enumerado los distintos perfiles de usuarios que pueden utilizar la aplicación y las frecuencias con que utilizarían las distintas funcionalidades de dicha aplicación.
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+- Mapa del sitio
+- 
+![foto7](P2/Sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+- Labelling
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Label                | Scope Note                                                                                                                                  | 
+| :------:             | :------------------------------------------------------------------------------------------------------------------------------------------:| 
+| Preguntas Frecuentes | Ayuda para el usuario con respuestas a preguntas que han surgido a otro usuario                                                             |
+| Contacto             | Forma de contactar con el servicio de atención al cliente, con atención 24h o de 8:00 a 18:00 con un agente                                 |
+| Ruta preestablecida  | Acceso directo al sitio web de rutas preestablecidas                                                                                        |
+| Ruta personalizada   | Acceso directo al sitio web de rutas personalizadas                                                                                         |
+| Reservar             | Acceso al resumen de la ruta preestablecida o a la descripción lugar de una ruta personalizada y a opción de pago para obtener las entradas |
+| Añadir               | Permite añadir un lugar/evento a una lista de lugares para formar una ruta personalizada                                                    |
+| Página oficial       | Acceso directo a la página oficial a un lugar de alguna ruta      
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Enlace al documento:
+      Para ver los bocetos [pulse aquí](P2/Bocetos/)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
