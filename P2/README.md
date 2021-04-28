@@ -2,7 +2,7 @@
 
 2.a Feedback Capture Grid
 -----
-
+![foto1](Malla_receptora.png)
 
 
 ### PROPUESTA DE VALOR
