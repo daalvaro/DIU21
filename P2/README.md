@@ -5,8 +5,11 @@
 ![foto1](Malla_receptora.png)
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+2.b ScopeCanvas
+-----
+Nuestro proyecto, llamado GranadaTour, consiste en una aplicación para realizar rutas de carácter cultural en la ciudad de Granada. La aplicación permite seleccionar una ruta ya preestablecida o crear una propia, seleccionando las actividades que se quieren realizar.
+
+![foto2](ScopeCanvas.png)
 
 
 ### TASK ANALYSIS
