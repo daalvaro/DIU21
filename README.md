@@ -2,14 +2,15 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_BÚHOS.  Curso: 2020/21 
-Updated: 25/03/2021
+Updated: 28/04/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+GranadaTour
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+GranadaTour es una aplicación para realizar rutas de carácter cultural en la ciudad de Granada. La aplicación permite seleccionar una ruta ya preestablecida o crear una propia, seleccionando las actividades que se quieren realizar.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -69,7 +70,7 @@ Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wan
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
+![foto5](./P2/Malla_receptora)
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
