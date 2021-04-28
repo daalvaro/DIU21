@@ -39,6 +39,19 @@ Nuestro proyecto, llamado GranadaTour, consiste en una aplicación para realizar
 2.e Wireframes
 -----
 
+1. Index
+
+![foto4](./Bocetos/index.png)
+
+Página principal de la aplicación. Permite a acceder a las páginas de seleccionar ruta / crear ruta, así como a las preguntas frecuentes y a la información de contacto.
+
+3. Ruta preestablecida
+4. Ruta personalizada
+5. Ruta
+6. Ruta personalizada
+7. Actividad
+8. Preguntas frecuentes
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
