@@ -117,8 +117,7 @@ En la matriz de tareas/usuarios hemos enumerado los distintos perfiles de usuari
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Enlace al documento:
-      Para ver los bocetos [pulse aquí](P2/Bocetos/)
+Para ver los bocetos [pulse aquí](P2/Bocetos/)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
