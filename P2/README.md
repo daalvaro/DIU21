@@ -45,13 +45,44 @@ Nuestro proyecto, llamado GranadaTour, consiste en una aplicación para realizar
 
 Página principal de la aplicación. Permite a acceder a las páginas de seleccionar ruta / crear ruta, así como a las preguntas frecuentes y a la información de contacto.
 
-3. Ruta preestablecida
+
+2. Ruta preestablecida
+
+![foto5](./Bocetos/preestablecida.png)
+
+Contiene cada una de las rutas disponibles. Permite la ordenación de las rutas según su precio, duración o valoración, además de un sistema de filtros. Al hacer click en una ruta, se accede a la página de información de dicha ruta.
+
+
+3. Ruta
+
+![foto6](./Bocetos/ruta.png)
+
+Contiene información de una ruta específica, así como una lista de todas las actividades que se van a realizar. Tiene una sección de valoración en el que se puede observar las valoraciones medias de los usuarios que han reservado la ruta, así como un botón para realizar la reserva.
+
+
 4. Ruta personalizada
-5. Ruta
-6. Ruta personalizada
-7. Actividad
-8. Preguntas frecuentes
+
+![foto7](./Bocetos/personalizada.png)
+
+Permite la creación de rutas personalizadas mediante dos formas: la primera, se pueden añadir a la ruta seleccionando la actividad en un mapa interactivo. La segunda es a través de una plantilla de viaje, que ofrece un sistema de filtros y ordenación/selección de fecha. Al pulsar en el título de la actividad, se muestra la información de dicha actividad en otra página. La página calcula la duración y el precio total de todas las actividades seleccionadas.
 
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+5. Actividad
+
+![foto8](./Bocetos/actividad.png)
+
+Contiene información de la actividad correspondiente y un mapa que muestra su localización. Además, contiene un enlace a la página oficial de dicha actividad.
+
+
+6. Preguntas frecuentes
+
+![foto9](./Bocetos/faq.png)
+
+Esta página muestra información relativa al funcionamiento de la aplicación para los usuarios.
+
+
+7. Contacto
+
+![foto10](./Bocetos/contacto.png)
+
+Ofrece un formulario para ponerse en contacto con los desarrolladores de la aplicación así como otra información relevante.
