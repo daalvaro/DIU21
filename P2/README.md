@@ -1,9 +1,8 @@
-## DIU - Practica2, entregables
+## Paso 2. UX Design
 
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+2.a Feedback Capture Grid
+-----
+
 
 
 ### PROPUESTA DE VALOR
