@@ -11,12 +11,16 @@ Nuestro proyecto, llamado GranadaTour, consiste en una aplicación para realizar
 
 ![foto2](ScopeCanvas.png)
 
-
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
-
+2.c Task Analysis
+-----
+| Grupos de usuarios             | Jóvenes | Adultos sin hijos | Adultos con hijos | Ancianos | Agentes de viaje |  
+| :------:                       | :------:| :----------------:| :----------------:| :--------| :---------------:|
+| Buscar actividades infantiles  |    L    |          L        |          H        |     M    |         H        |
+| Utilizar rutas preestablecidas |    L    |          M        |          H        |     H    |         M        |
+| Utilizar rutas personalizables |    H    |          M        |          L        |     L    |         M        |
+| Accesibilidad                  |    L    |          L        |         M/H       |     H    |         M        |    
+| Ofertas                        |    H    |          M        |         M/H       |     L    |         M        |
+| Comida incluida                |    L    |          H        |          M        |     H    |         M        |
 
 ### ARQUITECTURA DE INFORMACIÓN
 
