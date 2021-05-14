@@ -157,12 +157,14 @@ Para los colores, quisimos mantener la esencia de Granada, el rojo y amarillo qu
 ----
 
 Utilizaremos los siguientes patrones para realizar el diseño de la página web:
+
 · Para el rellenado de formularios (en la sección de preguntas o de contacto), se utilizarán diversos patrones:
    · El propio Contact Forms, para permitir al usuario contactar con nosotros.
    · Input Hints, para ayudar al usuario a saber qué debe escribir en cada cuadro.
    · Inline Validation, por si algún cuadro obligatorio no está rellenado o hay información errónea.
    
 · Para reservar utilizaremos los siguientes patrones:
+
    · Immediate Immersion (Lazy Signups). Para favorecer la estancia del usuario en la web y disminuir su nivel de malestar, no forzaremos a iniciar sesión hasta que se tenga que reservar un viaje o se quiera guardar la ruta de viaje que se esté construyendo.
    · Social Login. Permitiremos iniciar sesión con redes sociales además del correo electrónico, para favorecer la fluidez y comodidad del usuario.
    · Stepped Form (Wizards), para orientar al usuario en las diversas etapas de la reserva del viaje.
@@ -170,6 +172,7 @@ Utilizaremos los siguientes patrones para realizar el diseño de la página web:
    · Undo. Para ayudar al usuario si este se equivoca.
    
 · Para el Onboarding utilizaremos los siguientes patrones:
+
    · Walkthroughs
    · Next Steps
    · Calls to Action
