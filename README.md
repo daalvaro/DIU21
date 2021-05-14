@@ -150,7 +150,7 @@ Para los colores, quisimos mantener la esencia de Granada, el rojo y amarillo qu
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-![foto8](P3/LandingPage)
+![foto8](P3/LandingPage.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
