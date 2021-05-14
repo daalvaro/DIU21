@@ -139,14 +139,23 @@ Para ver los bocetos [pulse aquí](P2/Bocetos/)
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+>>>
+
+
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
 
 >>> Como equipo tomamos las siguientes decisiones de diseño:
->>> - Para el tipo de fuente, buscamos primero una que resaltará con el título. Esta sería la vida de nuestra página, así que nos decantamos por Anton: una Sans-Serif utilizada en publicidad. Su forma, aunque llamativa, no es excesivamente atrevida y da una sensación moderna, agradable y fácil de leer en una pantalla. Junto a esta, para complementar, elegimos una Montserrat. Queríamos darle un toque de actualidad a nuestra página, salir de lo tradicional que es lo que se suele asociar al turismo en Granada.
->>> - Para los colores, quisimos mantener la esencia de Granada, el rojo y amarillo que recuerdan a la propia fruta y aportan una sensación de calidez en la página. Asimismo, para contrastar y dar vida a la página utilizamos un verde como color de resalte. Para mantener esa calidez utilizamos versiones pastel de los colores. Finalmente, para favorecer la lectura de la página y la accesibilidad de la misma, utilizamos letra negra sobre fondo blanco.
->>> 
-
+>>>  - Para el tipo de fuente, buscamos primero una que resaltará con el título. Esta sería la vida de nuestra página, así que nos decantamos por Anton: una Sans-Serif utilizada en publicidad. Su forma, aunque llamativa, no es excesivamente atrevida y da una sensación moderna, agradable y fácil de leer en una pantalla. Junto a esta, para complementar, elegimos una Montserrat. Queríamos darle un toque de actualidad a nuestra página, salir de lo tradicional que es lo que se suele asociar al turismo en Granada.
+>>>  - Para los colores, quisimos mantener la esencia de Granada, el rojo y amarillo que recuerdan a la propia fruta y aportan una sensación de calidez en la página. Asimismo, para contrastar y dar vida a la página utilizamos un verde como color de resalte. Para mantener esa calidez utilizamos versiones pastel de los colores. Finalmente, para favorecer la lectura de la página y la accesibilidad de la misma, utilizamos letra negra sobre fondo blanco.
+>>>  
+>>>     - ![#f999a2](https://via.placeholder.com/15/f999a2/000000?text=+) `#f999a2` Como color principal. El texto será blanco sobre este color.
+>>>     - ![#ffc99d](https://via.placeholder.com/15/ffc99d/000000?text=+) `#ffc99d` Como color secundario. El texto será negro sobre este color.
+>>>     - ![#77c1ad](https://via.placeholder.com/15/77c1ad/000000?text=+) `#77c1ad` Como color de resalte para iconos y botones. El texto será blanco sobre este color.
+>>>   
+>>>
 >>> - Utilizaremos los siguientes patrones:
->>>  - Para el rellenado de formularios (en la sección de preguntas o de contacto), se utilizarán diversos patrones:
+>>>   - Para el rellenado de formularios (en la sección de preguntas o de contacto), se utilizarán diversos patrones:
 >>>    - El propio **Contact Forms**, para permitir al usuario contactar con nosotros.
 >>>    - **Input Hints**, para ayudar al usuario a saber qué debe escribir en cada cuadro.
 >>>    - **Inline Validation**, por si algún cuadro obligatorio no está rellenado o hay información errónea.
@@ -161,20 +170,6 @@ Para ver los bocetos [pulse aquí](P2/Bocetos/)
 >>>    - **Next Steps**
 >>>    - **Calls to Action**
 >>>    - **Modals**
-
-
- 
-
-
-
-
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
->>> 
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
