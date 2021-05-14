@@ -13,6 +13,8 @@ Descripción:
 > GranadaTour es una aplicación para realizar rutas de carácter cultural recorriendo la ciudad de Granada. La aplicación permite seleccionar una ruta ya preestablecida o crear una propia, seleccionando las actividades que se quieren realizar.
 
 Logotipo: 
+
+
 ![logo](P3/logo.png)
 
 Miembros
