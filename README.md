@@ -15,7 +15,7 @@ Descripción:
 Logotipo: 
 
 
-![logo](P3/logo.png)
+![logo](P3/logotipoWeb.png)
 
 Miembros
  * :bust_in_silhouette:  Álvaro Domínguez Aguilar     :octocat:     
