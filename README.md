@@ -146,6 +146,9 @@ Para el tipo de fuente, buscamos primero una que resaltara con el título así q
 
 Para los colores, quisimos mantener la esencia de Granada, el rojo y amarillo que recuerdan a la propia fruta y aportan una sensación de calidez en la página. Asimismo, para contrastar y dar vida a la página utilizamos un verde como color de resalte. Para mantener esa calidez utilizamos versiones pastel de los colores. Además, para favorecer la lectura de la página y la accesibilidad de la misma, utilizamos letra negra sobre fondo blanco.
 
+- ![#f999a2](https://via.placeholder.com/15/f999a2/000000?text=+) `#f999a2` Como color principal. El texto será blanco sobre este color.
+- ![#ffc99d](https://via.placeholder.com/15/ffc99d/000000?text=+) `#ffc99d` Como color secundario. El texto será negro sobre este color.
+- ![#77c1ad](https://via.placeholder.com/15/77c1ad/000000?text=+) `#77c1ad` Como color de resalte para iconos y botones. El texto será blanco sobre este 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
