@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wanderlog, TripRepublic y Sygic. Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
+Hemos analizado las webs de turismo: [Freetour](https://www.freetour.com), way away, World Travel Guide, wanderlog, TripRepublic y Sygic. Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
