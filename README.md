@@ -37,30 +37,30 @@ Hemos analizado las webs de turismo: Freetour, way away, World Travel Guide, wan
 
 - Lionel Huet
 
-![foto1](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+![foto1](P1/lionel_journey.png)
 
 
 - Marcos Lanza Laguna
  
-![foto2](https://github.com/daalvaro/DIU21/blob/master/P1/marcos.png)
+![foto2](P1/marcos.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 - Lionel Huet
 
-![foto3](https://github.com/daalvaro/DIU21/blob/master/P1/lionel_journey.png)
+![foto3](P1/lionel_journey.png)
 
 
 - Marcos Lanza Laguna
 
-![foto4](https://github.com/daalvaro/DIU21/blob/master/P1/marcos_journey.png)
+![foto4](P1/marcos_journey.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 - Enlace al documento:
-      Para ver el PDF [pulse aquí](https://github.com/daalvaro/DIU21/blob/master/P1/Usability_review.pdf)
+      Para ver el PDF [pulse aquí](P1/Usability_review.pdf)
 
 - Valoración final: 75
 - Comentario sobre la valoración: La página web ha obtenido una calificación de 75 puntos en la revisión de usabilidad, lo que puede considerarse como buena. Entre lo más destacable, incluye un amplio número de filtros que permiten seleccionar todo tipo de actividades y cada actividad va acompañada con información relevante (imágenes, descripción y ubicación en un mapa interactivo). Sin embargo, uno de sus mayores defectos es que es complicada de utilizar si no se tiene experiencia en este tipo de páginas web o conocimientos tecnológicos suficientes, debido a que la interfaz puede resultar confusa para el usuario, además de la dificultad que supone crear una ruta personalizada así como la reserva independiente de cada una de las actividades.
