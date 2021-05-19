@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_BÚHOS.  Curso: 2020/21 
-Updated: 28/04/2021
+Updated: 15/05/2021
 
 Proyecto: 
 
@@ -32,7 +32,7 @@ Miembros
 
 Hemos analizado las webs de turismo: [Freetour](https://www.freetour.com), [way away](https://www.way-away.es/), [World Travel Guide](https://www.worldtravelguide.net/), [wanderlog](https://www.worldtravelguide.net/), [TripRepublic](https://triprepublic.com/) y [Sygic](https://travel.sygic.com/es). Hemos elegido Sygic como plataforma para analizar en profundidad, ya que esta cuenta tanto con tours prediseñados y fáciles de reservar como con la posibilidad de personalizar unas rutas ya sugeridas o crearlas desde cero; cubriendo así con lo que la mayoría de personas buscan en una página de planificación de viajes.
 
-Para consultar la tabla de comparativas, pulse [aquí](P1/).
+Para consultar la tabla de comparativas y una breve descripción de cada una de las webs de turismo, pulse [aquí](P1/).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
