@@ -126,7 +126,7 @@ En el mapa del sitio se presentan todos los elementos que permiten la navegació
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Los wireframes se han diseñado teniendo en cuenta el principal enfoque de nuestro proyecto, permitir la selección de tours predefinidos o crear una ruta propia. En la sección de rutas predefinidas, se obtiene un listado de todos los tours disponibles así como una selección de filtros. Cada uno de estos tours lleva a una página con la descripción general del tour y las actividades en las que se compone así como la opción de reservar dicho tour.
+Los wireframes se han diseñado teniendo en cuenta el principal enfoque de nuestro proyecto, permitir la selección de tours predefinidos o crear una ruta propia. En la sección de tours, se obtiene un listado de todos los tours disponibles así como una selección de filtros. Cada uno de estos tours lleva a una página con la descripción general del tour y las actividades en las que se compone así como la opción de reservar dicho tour.
 
 En la sección de rutas personalizable, se dispone un listado de todas las actividades que se pueden añadir a la ruta y un mapa interactivo en el que se puede observar la localización de dicha actividad e información detallada.
 
