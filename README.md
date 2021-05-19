@@ -187,7 +187,6 @@ En los prototipos se han mejorado los defectos detectados tras la realización  
 
 Para ver los prototipos, pulse [aquí](P3/).
 
-![video1](P3/simulacion.mp4)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
