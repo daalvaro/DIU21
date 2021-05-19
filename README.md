@@ -191,9 +191,10 @@ Para ver los prototipos, pulse [aquí](P3/).
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Mediante la realización de este proyecto, hemos aprendido sobre la importancia que tienen las opiniones de los usuarios en el desarrollo de una aplicación web y lo complicado que es ponerse en la piel de éstos. Las entrevistas a estos usuarios, así como las distintas herramientas que hemos utilizado en el desarrollo de estas tres prácticas (como, por ejemplo, la malla receptora de información o la matriz de usuarios/tareas) nos han permitido ir diseñando una aplicación cada vez más completa en lugar de lanzarnos directamente a la implementación de dicha aplicación. 
+Mediante la realización de este proyecto, hemos aprendido sobre la importancia que tienen las opiniones e inquietudes de los usuarios en el desarrollo de una aplicación web y lo complicado que es ponerse en la piel de éstos. Las entrevistas a estos usuarios, así como las distintas herramientas que hemos utilizado en el desarrollo de estas tres prácticas (como, por ejemplo, la malla receptora de información o la matriz de usuarios/tareas) nos han permitido ir diseñando una aplicación cada vez más completa en lugar de lanzarnos directamente a la implementación de dicha aplicación.
 
-Además, hemos profundizado en las diversas técnicas que se utilizan en la actualizdad para llevar a cabo un buen y correcto diseño de una aplicación web
+Además, hemos profundizado en las diversas técnicas que se utilizan en la actualidad para llevar a cabo un buen y correcto diseño de una aplicación web.
+
 
 
 
