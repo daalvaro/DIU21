@@ -1,7 +1,8 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+## Resumen ejecutivo
 
+El equipo Búhos ha desarrollado la evaluación para este prototipo web de alojamiento turístico. Para ello, se han seleccionado cuatro usuarios y se les ha sometido a un cuestionario SUS para evaluar la usabilidad de dicha aplicación (los usuarios #1 y #2 para la aplicación GranadaTour y los usuarios #3 y #4 para la aplicación ViajesP&P). Se ha utilizado este cuestionario para la realización de un test A/B para la comparación de ambas aplciaciones.
 
 ## Caso 1: GranadaTour
 
