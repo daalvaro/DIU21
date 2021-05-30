@@ -78,7 +78,7 @@ En general, ambos usuarios han podido realizar todas las tareas de manera satisf
 
 ## Usability Review
 
-El informe de usabilidad se encuentra en el siguiente ![enlace](P4_UsabReport_ViajesP&P_doneby_DIU3_BUHOS.pdf).
+El informe de usabilidad se encuentra en el siguiente [enlace](P4_UsabReport_ViajesP&P_doneby_DIU3_BUHOS.pdf).
 
 ## Conclusiones
 
