@@ -45,7 +45,7 @@ GranadaTour es una aplicación para realizar rutas de carácter cultural recorri
 | #id. usuario | Sexo/edad   | Ocupación      | Rol               | Experiencia internet | Plataforma | Experiencia con web |
 |--------------|-------------|----------------|-------------------|----------------------|------------|---------------------|
 |            3 | Mujer / 73  | Jubilada       | Turismo           | Baja                 | App        | Baja                |
-|            2 | Hombre / 31 | Pintor         | Idiomas           | Intermedia           | App        | Intermedia          |
+|            4 | Hombre / 31 | Pintor         | Idiomas           | Intermedia           | App        | Intermedia          |
 
 Se ha realizado el cuestionario SUS a los siguientes usuarios para la aplicación ViajesP&P:
   - Una jubilada de 73 años con poca experiencia en el uso de aplicaciones web a la que le gustaría irse de turismo.
