@@ -204,58 +204,60 @@ Además, hemos profundizado en las diversas técnicas que se utilizan en la actu
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Se ha asignado el proyecto ViajesP&P, disponible en el siguiente [enlace](https://github.com/Pedropadilla26/DIU21). ViajesP&P es una aplicación, para dispositivos móviles, de búsqueda y reserva de alojamiento de alquiler turístico con información local de la ciudad del alojamiento. También permite subir un alojamiento turístico a la aplicación.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se ha comparado esta aplicación con la nuestra, GranadaTour, una web para de rutas turísticas por la ciudad de Granada.
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Se han seleccionado 4 personas para realizar la evaluación de usabilidad de ambos proyectos. Las personas #1 y #2 han evaluado GranadaTour, mientras que las personas #3 y #4 lo han hecho con [ViajesP&P](https://github.com/Pedropadilla26/DIU21). Las personas son las siguientes:
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+  - Un joven estudiante de 19 años, apasionado del senderismo y las actividades al aire libre y un avanzado conocimiento con aplicaciones web.
+  - Una administrativa de 50 años que necesita hacer un viaje de negocios y con experiencia intermedia en aplicaciones.
+  - Una jubilada de 73 años con poca experiencia en el uso de aplicaciones web a la que le gustaría irse de turismo.
+  - Un pintor de 31 años que presenta una minusvalía, al que le gustaría ir de viaje para aprender idiomas.
+
+| #id. usuario | Sexo/edad   | Ocupación      | Rol               | Experiencia internet | Plataforma | TestA/B |
+|--------------|-------------|----------------|-------------------|----------------------|------------|---------|
+|            1 | Hombre / 19 | Estudiante     | Senderismo        | Avanzada             | Web        | A       |
+|            2 | Mujer / 50  | Administrativa | Viaje de negocios | Intermedia           | Web        | A       |
+|            3 | Mujer / 73  | Jubilada       | Turismo           | Baja                 | App        | B       |
+|            4 | Hombre / 31 | Pintor         | Idiomas           | Intermedia           | App        | B       |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+### Cuestionario SUS
+|    | PREGUNTAS                                                                                |  1  |  2  |  3  |  4  |
+|----|------------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
+|  1 | Creo que me gustará visitar con frecuencia este website                                  |  3  |  5  |  4  |  2  |
+|  2 | Encontré el website innecesariamente complejo                                            |  2  |  2  |  2  |  3  |
+|  3 | Pensé que era fácil utilizar este website                                                |  4  |  4  |  4  |  3  |
+|  4 | Creo que necesitaría del apoyo de un experto para recorrer el website                    |  1  |  1  |  2  |  3  |
+|  5 | Encontré las funciones del website bastante bien integradas                              |  4  |  4  |  4  |  4  |
+|  6 | Pensé que había demasiada inconsistencia en el website                                   |  2  |  1  |  1  |  1  |
+|  7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  3  |  3  |  4  |  3  |
+|  8 | Encontré el website muy grande al recorrerlo                                             |  1  |  2  |  2  |  1  | 
+|  9 | Me sentí muy confiado en el manejo del website                                           |  4  |  4  |  4  |  3  |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  1  |  1  |  3  |  2  |
+|    |                                                             Valoración final (SUS Score) | 77.5| 82.5| 75  | 62.5|
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+El informe de usabilidad se puede consultar en el siguiente [enlace](P4/P4_UsabReport_ViajesP&P_doneby_DIU3_BUHOS.pdf).
 
+Los usuarios que han hecho uso de esta aplicación concuerdan en la relativa sencillez en la navegación de ésta, aunque se podrían mejorar algunos aspectos del diseño. Entre lo más destacable, las opciones de accesibilidad (modo daltónico y modo de texto hablado) deberían ir en un menú principal y no en una sección dentro del perfil, ya que podría pasar desapercibido por algunos usuarios. Además, ofrecer más claridad de lo que hace cada icono de la aplicación como, por ejemplo, el engranaje que lleva a la configuración del perfil, ya que algunos usuarios (sobre todo más mayores), podrían no entender la función que lleva a cabo dicho icono.
 
+En cuanto a las funcionalidades, se podría mejorar añadiendo la ubicación del alojamiento mediante la integración de un mapa (por ejemplo, Google Maps) u ofrecer sugerencias de lugares cercanos que se pueden visitar además de las recomendaciones de restaurantes, así como permitir utilizar la aplicación sin tener que registrarse (para ver las ofertas disponibles). Además, ya que puede ser una aplicación un tanto innovadora respecto al resto de aplicaciones dirigidas a reservas de hoteles, su uso puede causar cierta confusión y se recomendaría añadir un tutorial (onboarding) para la aplicación.
 
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+En general, la aplicación presenta una usabilidad aceptable, aunque habría que mejorar algunos aspectos del diseño para que pueda ser utilizado por todo tipo de usuarios de una forma cómoda.
 
 
 
@@ -263,16 +265,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
 
 
 
