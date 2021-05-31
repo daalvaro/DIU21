@@ -185,7 +185,7 @@ Utilizaremos los siguientes patrones:
 
 En los prototipos se han mejorado los defectos detectados tras la realización  de los wireframes (nombre de las secciones, colocación de los elementos dentro de la página web, etc.). Además, se ha hecho uso de los colores y fuentes de texto previamente seleccionadas, así como de los distintos patrones de diseño para la realización del prototipo de nuestra página web.
 
-Para ver los prototipos, pulse [aquí](P3/).
+Para ver los prototipos, pulse [aquí](P3/Layout/).
 
 Se puede simular el funcionanimento de la web en el siguiente [enlace](https://xd.adobe.com/view/09f4a008-eef8-4fb1-81f1-5673beacad53-5ca7/).
 
@@ -264,5 +264,5 @@ En general, la aplicación presenta una usabilidad aceptable, aunque habría que
 
 ## Conclusión final / Valoración de las prácticas
 
-En general, mediante la realización de las prácticas de esta asignatura hemos aprendido la metodología para diseñar una aplciación web y la importancia que tienen los usuarios a la hora de su realización, tanto de sus opiniones como de los problemas que puedan surgir durante el uso de una aplicación. Además, hemos conocido herramientas que nos han ayudado a desarrollar este proyecto y que son ampliamente utilizadas en la actualidad
+En general, mediante la realización de las prácticas de esta asignatura hemos aprendido la metodología para diseñar una aplciación web y la importancia que tienen los usuarios a la hora de su realización, tanto de sus opiniones como de los problemas que puedan surgir durante el uso de una aplicación. Además, hemos conocido herramientas que nos han ayudado a desarrollar este proyecto y que son ampliamente utilizadas en la actualidad.
 
