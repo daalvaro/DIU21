@@ -187,6 +187,8 @@ En los prototipos se han mejorado los defectos detectados tras la realización  
 
 Para ver los prototipos, pulse [aquí](P3/).
 
+Se puede simular el funcionanimento de la web en el siguiente [enlace](https://xd.adobe.com/view/09f4a008-eef8-4fb1-81f1-5673beacad53-5ca7/).
+
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
@@ -194,7 +196,6 @@ Para ver los prototipos, pulse [aquí](P3/).
 Mediante la realización de este proyecto, hemos aprendido sobre la importancia que tienen las opiniones e inquietudes de los usuarios en el desarrollo de una aplicación web y lo complicado que es ponerse en la piel de éstos. Las entrevistas a estos usuarios, así como las distintas herramientas que hemos utilizado en el desarrollo de estas tres prácticas (como, por ejemplo, la malla receptora de información o la matriz de usuarios/tareas) nos han permitido ir diseñando una aplicación cada vez más completa en lugar de lanzarnos directamente a la implementación de dicha aplicación.
 
 Además, hemos profundizado en las diversas técnicas que se utilizan en la actualidad para llevar a cabo un buen y correcto diseño de una aplicación web.
-
 
 
 
@@ -263,8 +264,5 @@ En general, la aplicación presenta una usabilidad aceptable, aunque habría que
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
+En general, mediante la realización de las prácticas de esta asignatura hemos aprendido la metodología para diseñar una aplciación web y la importancia que tienen los usuarios a la hora de su realización, tanto de sus opiniones como de los problemas que puedan surgir durante el uso de una aplicación. Además, hemos conocido herramientas que nos han ayudado a desarrollar este proyecto y que son ampliamente utilizadas en la actualidad
 
